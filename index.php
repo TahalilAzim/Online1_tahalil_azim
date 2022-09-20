@@ -43,7 +43,7 @@
           }
         ?>
       </table>
-      <button type="button" class="btn btn-success">Add Booking</button>
+      <button type="button" class="btn btn-success"><a href="appt_input.php">Add booking</a></button>
       <button type="button" class="btn btn-danger">Cancel Booking</button>
       </div>
 
